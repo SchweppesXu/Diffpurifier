@@ -1,0 +1,39 @@
+{
+  "patch_size": 256,
+  "augmentation": true,
+  "num_gpus":3,
+  "batch_size": 3,
+  "valbatch_size": 3,
+  "num_workers": 0,
+  "num_channel": 3,
+  "EF": false,
+  "resume": false,
+  "epochs": 800,
+  "learning_rate": 0.001,
+  "loss_function": "focal",
+  "num_spixels": 256,
+  "feat_scales": [
+      2,
+      5,
+      8,
+      11,
+      14
+    ],
+    "out_channels": 8,
+    "output_cm_size": 256,
+    "feat_type": "dec",
+    "t": [
+      4,5
+    ],
+  "checkpoint_path": "/data/yiquan.xu/Diffpurifier/tmp/shuguang/re_k1_checkpoint_epoch_257.pt",
+
+  "source_dir": "/data/yiquan.xu/DATASETS/shuguang/ddpm_opt_model",
+  "target_dir": "/data/yiquan.xu/DATASETS/shuguang/ddpm_sar_model1000",
+  "dataset_dir": "/data/yiquan.xu/DATASETS/shuguang/rerek1/",
+
+  "weight_dir": "/data/yiquan.xu/Diffpurifier/tmp/shuguang",
+  "log_dir": "/data/yiquan.xu/Diffpurifier/log/shuguang/",
+
+  "output_dir":"/data/yiquan.xu/Diffpurifier/tmp/shuguang",
+  "mask_dir":"/data/yiquan.xu/Diffpurifier/tmp/shuguang/img2_mask_ddpm_cd/"
+}

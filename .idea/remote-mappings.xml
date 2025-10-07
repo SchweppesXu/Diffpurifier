@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://yiquan.xu@192.168.190.82:22/data/yiquan.xu/anaconda3/envs/ddib/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$/ddib-main-original" remote-root="/data/yiquan.xu/ddib-main/ddib-main-original" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
