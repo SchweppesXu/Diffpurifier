@@ -2,7 +2,7 @@
 ![author](https://img.shields.io/badge/author-likyoo-blueviolet.svg)![last commit](https://img.shields.io/github/last-commit/likyoo/Siam-NestedUNet.svg)!
 
 
-![Diffpurifier](img/Diffpurifier.png)
+![Diffpurifier](Diffpurifier.png)
 
 The pytorch implementation for "[Diffpurifier: An Optical and SAR Image Change Detection Method Based on Diffusion Purification](https://ieeexplore.ieee.org/document/11029277) ". The paper is published on IEEE Transactions on Geoscience and Remote Sensing. 
 
