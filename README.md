@@ -1,5 +1,5 @@
 # Diffpurifier
-![author](https://img.shields.io/badge/author-likyoo-blueviolet.svg)![last commit](https://img.shields.io/github/last-commit/likyoo/Siam-NestedUNet.svg)!
+![author](https://img.shields.io/badge/author-SchweppesXu-blueviolet.svg)![last commit](https://img.shields.io/github/last-commit/SchweppesXu/Diffpurifier.svg)!
 
 
 ![Diffpurifier](Diffpurifier.png)
